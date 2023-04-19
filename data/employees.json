@@ -34,6 +34,13 @@
         "extension": 1235,
         "email": "sue@vectacorp.com",
         "department": "QA"
+      }, 
+      {
+        "id": 14536353,
+        "name": "Jeci Wood",
+        "extension": 9678,
+        "email": "jeci@vectacorp.com",
+        "department": "Zebra"
       }
     ]
   }
