@@ -5,7 +5,7 @@ import { loadEmployees } from '../js/modules/init.js'
 // GET DOM ELEMENTS
 let empTable    = document.querySelector('#employees')
 let empCount    = document.querySelector('#empCount')
-
+let employees   = []
 // BUILD THE EMPLOYEES TABLE WHEN THE PAGE LOADS
 loadEmployees().then((data) => {
     if (data) {
